@@ -3,7 +3,7 @@
     "description": "",
     "type": "symfony-bundle",
     "licence": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "require": {
         "symfony/lock": "7.2.*"
     },
